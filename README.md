@@ -1,7 +1,7 @@
 # 23-HWexample
 This is the example homework repository for CompPhys23
 
-## Excercises till Friday
+## Exercises till Friday
 
 - Create a new branch with the name YourUsername-ex1 (e.g. __laserlab-ex1__)
 - Generate a markdown file (file ending .md with your github username as a filename, e.g.: __laserlab.md__) that contains
