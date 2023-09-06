@@ -1,3 +1,6 @@
-#This is just a check document. 
-~lets make a list of the items, I should add
-
+# In this documnet I am going to mention 5 things, I wanna be learning in this semester.
+~ Learning Python
+~ Learning C++
+~ Data Analysis in general
+~ Quantum computing
+~ Different other tools
