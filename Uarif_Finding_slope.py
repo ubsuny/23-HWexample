@@ -1,9 +1,9 @@
 #This is a python code for finding slope of two points on a line.
-def getslope (x0,y0,x1,y1):# two points on a line
+def getslope (x0,y0,x1,y1):	# two points on a line
 num= y1-y0 #numerator 
 den= x1-x0# denominator
 if abs (den)>0.0001:
-	slope=num/den #defining slope
+	slope=num/den 		#defining slope
 else:
 Print 'Invalid input'
 slope=num
