@@ -10,3 +10,11 @@ print("The sum using for loop is", s)
 
 j = int(ask*(ask+1)/2)
 print("the sum using the formula is", j)
+
+#decision
+#this code will decide whether either ways we get same answer?
+
+if s==j:
+    print("the sum from either ways are equal")
+else:
+    print("the sum are not equal")
