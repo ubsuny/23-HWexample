@@ -4,4 +4,9 @@ ask = int(input('input the number \n'))
 s = 0
 for i in range(ask+1):
     s+=i
-print("The sum of the first", ask, " number is", s, ".")
+print("The sum using for loop is", s)
+
+#the other way to find the sum is using formula
+
+j = int(ask*(ask+1)/2)
+print("the sum using the formula is", j)
