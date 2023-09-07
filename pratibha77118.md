@@ -12,7 +12,7 @@ Fibonacci function (Fibonacci(n)) calculates the n^th fibonacci number by creati
 the first two fibonacci number (0 and 1) and then iteratively calculates the subsequent numbers.
 
 def fibonacci(n):
-    """Return the nth Fibonacci number."""
+    
     if n <= 0:
         return 0
     elif n == 1:
