@@ -23,7 +23,7 @@ def fibonacci(n):
             a, b = b, a + b
         return b
 
-# Example usage:
+
 n = 10
 result = fibonacci(n)
 print(f"The {n}th Fibonacci number is {result}")
