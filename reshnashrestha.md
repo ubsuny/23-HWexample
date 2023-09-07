@@ -11,3 +11,8 @@
  I would like to write a well formatted code in python for finding a factorial of a number. At least, I am trying as follows:
 
 def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n - 1)
+print(factorial(5))
