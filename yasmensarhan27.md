@@ -27,4 +27,5 @@ def fibonacci(n):
   return x
 
 n = int(input("type the index number you want to know: "))
+
 print(fibonacci(n))
