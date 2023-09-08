@@ -29,7 +29,11 @@ if __name__ == "__main__":
 
 
 ##Clarification of the code:
-This code first defines a function called fibonacci() that takes an integer n as input and returns the nth Fibonacci number. The function works by initializing two variables a and b to 0 and 1, respectively. Then, it uses a for loop to iterate from 0 to n. In each iteration, the function assigns the value of b to a and then assigns the value of a + b to b. This effectively calculates the next Fibonacci number in the series. Finally, the function returns the value of a.
+This code first defines a function called fibonacci() that takes an integer n as input and returns the nth Fibonacci number. 
+The function works by initializing two variables a and b to 0 and 1, respectively. Then, it uses a for loop to iterate from 0 to n. 
+In each iteration, the function assigns the value of b to a and then assigns the value of a + b to b. This effectively calculates the next 
+Fibonacci number in the series. Finally, the function returns the value of a.
 
-The main function prompts the user to enter the number of terms and then calls the fibonacci() function to print the Fibonacci series up to that number of terms."""
+The main function prompts the user to enter the number of terms and then calls the fibonacci() function to print the Fibonacci series 
+up to that number of terms."""
 
