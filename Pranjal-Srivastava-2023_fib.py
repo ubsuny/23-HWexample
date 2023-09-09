@@ -1,3 +1,4 @@
+#Function named fib takes in an argument n to list first n Fibonacci numbers.
 def fib(n):
     fibonacci_sequence = [] #Declaring an empty list.
     a = 0
