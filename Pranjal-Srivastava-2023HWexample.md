@@ -11,7 +11,7 @@
 ## Example Python Function
 
 Here's an example of a Python function that calculates the Fibonacci series and return it as a list:
-
+```python
 def fib(n):
     fibonacci_sequence = [] #Declaring an empty list.
     a = 0
@@ -22,3 +22,4 @@ def fib(n):
         a = b #New value of a
         b = c #New value of b
     return fibonacci_sequence
+```
